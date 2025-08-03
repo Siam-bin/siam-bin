@@ -1,16 +1,75 @@
-## Hi there 👋
+# 👋 Hi, I'm Siam Bin Hasan  
 
-<!--
-**Siam-bin/siam-bin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Economics Student** at **Bangladesh University of Professionals (BUP)**  
+🤖 **AI Enthusiast** | 🎨 **Creative Designer** | 🎬 **Video Editor** | 💡 **Consultant**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+- 📚 Currently exploring the intersection of **Economics, AI, and Business**  
+- 🎨 Skilled in **Figma, Web Design, and Motion Graphics**  
+- 🎬 Experience with **Video Editing** and **Creative Content Development**  
+- 💡 Interested in **Startups, Data Analysis, and Tech-Driven Solutions**  
+
+---
+
+### ⚡ Skills & Tools
+- **Design & Creativity:** Figma, Canva, Adobe Premiere Pro  
+- **Web Development:** HTML, CSS, React (Beginner)  
+- **AI & Tech:** ChatGPT, Prompt Engineering, Research & Consultancy  
+- **Other:** Presentation Design, Content Creation  
+
+---
+
+### 🌱 What I'm Currently Working On
+- Building **Keechi** – a salon & parlor appointment booking platform  
+- Exploring **AI in Business & Economics** applications  
+- Experimenting with **Web Apps & Data Visualization**  
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](# 👋 Hi, I'm Siam Bin Hasan  
+
+🎓 **Economics Student** at **Bangladesh University of Professionals (BUP)**  
+🤖 **AI Enthusiast** | 🎨 **Creative Designer** | 🎬 **Video Editor** | 💡 **Consultant**
+
+---
+
+### 🧠 About Me
+- 📚 Currently exploring the intersection of **Economics, AI, and Business**  
+- 🎨 Skilled in **Figma, Web Design, and Motion Graphics**  
+- 🎬 Experience with **Video Editing** and **Creative Content Development**  
+- 💡 Interested in **Startups, Data Analysis, and Tech-Driven Solutions**  
+
+---
+
+### ⚡ Skills & Tools
+- **Design & Creativity:** Figma, Canva, Adobe Premiere Pro  
+- **Web Development:** HTML, CSS, React (Beginner)  
+- **AI & Tech:** ChatGPT, Prompt Engineering, Research & Consultancy  
+- **Other:** Presentation Design, Content Creation  
+
+---
+
+### 🌱 What I'm Currently Working On
+- Building **Keechi** – a salon & parlor appointment booking platform  
+- Exploring **AI in Business & Economics** applications  
+- Experimenting with **Web Apps & Data Visualization**  
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/siam-bin-hasan-a47208262)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siambinhasan@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801921605319)
+
+
+---
+
+💡 *"Curiosity, creativity, and consistency lead to innovation."*  
+
+
+---
+
+💡 *"Curiosity, creativity, and consistency lead to innovation."*  
